@@ -11,7 +11,7 @@
 export default {
   data () {
     return {
-      currentApplicationName: '流程中心服务'
+      currentApplicationName: '公共流程服务中心'
     }
   },
   mounted () {

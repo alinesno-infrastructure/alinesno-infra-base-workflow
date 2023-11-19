@@ -1,7 +1,7 @@
 {
   "name": "alinesno-infra-base-workflow-admin",
   "version": "1.0.0",
-  "description": "流程中心服务",
+  "description": "公共流程服务中心",
   "author": "LuoXiaoDong",
   "license": "Apache-2.0",
   "scripts": {

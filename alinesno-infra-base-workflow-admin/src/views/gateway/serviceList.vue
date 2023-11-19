@@ -129,7 +129,7 @@ const productList = [
                 "hasInner": 0,
                 "linkPath": "http://alinesno-gateway.beta.linesno.com",
                 "prodStatus": "normal",
-                "name": "流程中心服务",
+                "name": "公共流程服务中心",
                 "id": "053b9e440df2d3a2ddfc714b206c9731"
             },
             {
