@@ -13,7 +13,17 @@
 	<artifactId>alinesno-infra-base-workflow-domain</artifactId>
 	<packaging>jar</packaging>
 
+	<properties>
+		<liteflow.version>2.11.3</liteflow.version>
+	</properties>
+
 	<dependencies>
+
+		<dependency>
+			<groupId>com.yomahub</groupId>
+			<artifactId>liteflow-spring-boot-starter</artifactId>
+			<version>${liteflow.version}</version>
+		</dependency>
 
 		<!-- 引用公共门面服务 -->
 		<dependency>
